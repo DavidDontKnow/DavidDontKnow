@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A new portfolio**
 
-- 🌱 I’m currently learning **C#/C++**
+- 🌱 I’m currently learning **ASM**
 
 - 👨‍💻 All of my projects are available at [www.daveed.dev](www.daveed.dev)
 
