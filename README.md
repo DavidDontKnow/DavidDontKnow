@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviddontknow" alt="daviddontknow" /></a> </p>
 
-- 🔭 I’m currently working on **A new portfolio**
+- 🔭 I’m currently working on **CS Major Resource App**
 
-- 🌱 I’m currently learning **ASM**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [www.daveed.dev](www.daveed.dev)
 
